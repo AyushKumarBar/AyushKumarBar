@@ -44,7 +44,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="ehe" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/ayush_1200" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ehe" height="30"
+            src="https://camo.githubusercontent.com/45b4809511187037c708ce2525707547a9483131647372f973db1e8263b26927/68747470733a2f2f6769746775642e696f2f75706c6f6164732f2d2f73797374656d2f67726f75702f6176617461722f31323239342f63632e706e67" alt="ehe" height="30"
             width="40" /></a>
     <a href="https://www.leetcode.com/ayushrock1200/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
